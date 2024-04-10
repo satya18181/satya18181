@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align= "right" alt="GIF" width="450px" height="280px" src="[https://github.com/Emimal-J/Emimal-J/](https://github.com/satya18181)blob/main/Images/profile.gif">
+<img align= "right" alt="GIF" width="450px" height="280px" src="(https://github.com/satya18181)blob/main/Images/profile.gif">
 
 - 🔭 I’m currently working on Data analytics projects.
 - 🌱 I’m currently learning Deep learning, Nautural Language Programming.
