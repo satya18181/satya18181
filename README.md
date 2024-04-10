@@ -15,14 +15,15 @@
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=satya &logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
 <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
 <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
-<img src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg" alt="Excel" width="50" height="40"/><br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="Excel" width="50" height="40"/><br>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql " width="40" height="40"/>    
-<img src="https://cdn.worldvectorlogo.com/mongodb-svgrepo-com.svg" alt="MongoDB " width="40" height="40"/>    
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;  
+
 <br>
 <img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
