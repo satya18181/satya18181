@@ -23,7 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="Excel" width="50" height="40"/><br>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql " width="40" height="40"/>    
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;  
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="mongodb" width="40" height="50"/>&nbsp;&nbsp;  
+<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="mongodb" width="70" height="40"/>&nbsp;&nbsp;  
 
 <br>
 <img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
