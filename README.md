@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align= "right" alt="GIF" width="450px" height="280px" src="(https://github.com/satya18181)blob/main/Images/profile.gif">
+<img align= "right" alt="GIF" width="450px" height="280px" src="https://github.com/satya18181/blob/main/Images/profile.gif">
 
 - 🔭 I’m currently working on Data analytics projects.
 - 🌱 I’m currently learning Deep learning, Nautural Language Programming.
@@ -23,16 +23,16 @@
 <img src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg" alt="Excel" width="50" height="40"/><br>
     
 <br>
-<img height="30" src="https://img.shields.io/badge/Emimal's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
 </p>
 <p>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Emimal-J&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satya &theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="left">
 <summary>GitHub Trophies 🏆</summary>
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Emimal-J&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  <a href="https://github.com/satya18181/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=satya &theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
