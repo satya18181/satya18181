@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align= "right" alt="GIF" width="450px" height="280px" src="https://github.com/Emimal-J/Emimal-J/blob/main/Images/profile.gif">
+<img align= "right" alt="GIF" width="450px" height="280px" src="[https://github.com/Emimal-J/Emimal-J/](https://github.com/satya18181)blob/main/Images/profile.gif">
 
 - 🔭 I’m currently working on Data analytics projects.
 - 🌱 I’m currently learning Deep learning, Nautural Language Programming.
@@ -38,15 +38,15 @@
 </details>
     
 <h4 align="left">
-Show ❤️ By Starring My <a href='https://github.com/Emimal-J?tab=repositories'>
-<img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Emimal-J&logoColor=blue" />
+Show ❤️ By Starring My <a href='https://github.com/satya18181?tab=repositories'>
+<img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=satya18181&logoColor=blue" />
 </a></h4>
 <br>
 
 <h4 align="left">
-    <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/emimal-j">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Emimal-J linkedin" width="24px" />
+    <img align="center" src="https://github.com/satya18181" height="30px">Connect with me &nbsp; 👉 &nbsp;  
+        <a href="https://www.linkedin.com/in/satyanmohapatra/">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Satyanarayan Mohapatra linkedin" width="24px" />
     </a>
 </h4> 
 
