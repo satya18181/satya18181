@@ -1,4 +1,4 @@
-### Hello there 👋
+## Hello Data Science Learner 👋
 
 <img align= "right" alt="GIF" width="450px" height="280px" src="https://github.com/satya18181/blob/main/Images/profile.gif">
 
