@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
 <img src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg" alt="Excel" width="50" height="40"/><br>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-svgrepo-com.svg" alt="mysql " width="40" height="40"/>    
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql " width="40" height="40"/>    
 <br>
 <img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
