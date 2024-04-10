@@ -3,7 +3,7 @@
 <img align= "right" alt="GIF" width="450px" height="280px" src="https://github.com/satya18181/blob/main/Images/profile.gif">
 
 - 🔭 I’m currently working on Data analytics projects.
-- 🌱 I’m currently learning Deep learning, Nautural Language Programming.
+- 🌱 I’m currently learning Deep learning, Nautural Language Processing.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
 - 📫 How to reach me: mohapatrasatyanarayan30@gmail.com
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I'm a graduate in physics.
 
 <br>
-<img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=satya &logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
 <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
@@ -21,7 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
 <img src="https://brandeps.com/logo-download/M/Microsoft-Excel-logo-vector-01.svg" alt="Excel" width="50" height="40"/><br>
-    
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-svgrepo-com.svg" alt="mysql " width="40" height="40"/>    
 <br>
 <img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
