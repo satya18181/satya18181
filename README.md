@@ -10,7 +10,7 @@
 - 💭 Quote: "PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE."
 - 🥅 2024 Goals: To be more hard work, hard work.
 - ⚡ Fun fact: I'm a graduate in physics.
-
+https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=satya &logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
