@@ -1,6 +1,6 @@
 ## Hello Data Science Learner 👋
 
-<img align= "right" alt="GIF" width="450px" height="280px" src="https://github.com/satya18181/satya18181/blob/main/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
+<img align= "right" alt="GIF" width="350px" height="280px" src="https://github.com/satya18181/satya18181/blob/main/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 
 - 🔭 I’m currently working on Data analytics projects.
