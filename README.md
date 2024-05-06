@@ -3,7 +3,7 @@
 <img align= "right" alt="GIF" width="300px" height="150px" src="https://github.com/satya18181/satya18181/blob/main/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 
-- 🔭 I’m currently working on Data analytics projects.
+- 🔭 I’m currently working on Data Science/analytics projects.
 - 🌱 I’m currently learning Deep learning, Nautural Language Processing.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
@@ -17,13 +17,13 @@
 <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-<img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="50" height="40"/><br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="Excel" width="50" height="40"/><br>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql " width="40" height="40"/>    
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql " width="40" height="40"/>    
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;  
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="mongodb" width="70" height="40"/>&nbsp;&nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="Opencv" width="50" height="40"/>&nbsp;&nbsp;  
 
 <br>
 <img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
@@ -47,7 +47,7 @@ Show ❤️ By Starring My <a href='https://github.com/satya18181?tab=repositori
 <br>
 
 <h4 align="left">
-    <img align="center" src="https://github.com/satya18181" height="30px">Connect with me &nbsp; 👉 &nbsp;  
+    <img align="center" src="https://github.com/satya18181" height="40px">Connect with me &nbsp; 👉 &nbsp;  
         <a href="https://www.linkedin.com/in/satyanmohapatra/">
         <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Satyanarayan Mohapatra linkedin" width="24px" />
     </a>
