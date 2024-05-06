@@ -45,9 +45,7 @@ Show ❤️ By Starring My <a href='https://github.com/satya18181?tab=repositori
 <img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=satya18181&logoColor=blue" />
 </a></h4>
 <br>
-
 <h4 align="left">
-    <img align="center" src="https://github.com/satya18181" height="40px">Connect with me &nbsp; 👉 &nbsp;  
         <a href="https://www.linkedin.com/in/satyanmohapatra/">
         <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Satyanarayan Mohapatra linkedin" width="24px" />
     </a>
